@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+
+#logo {
+    width: 5%;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+#enc1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+    text-decoration: none;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+#enc2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #04146c;
+    text-decoration: none;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+#title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 96px;
+    color: #0a2ff1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 34px;
+    color: #04146c;
+    margin: auto;
+    text-align: center;
+    margin-top: 1%;
+}
+
+#img {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    background-size: contain;
+    margin-top: 3%;
+}
+
+nav {
+    border-top: 20px solid #0a2ff1;
+}
+
+body {
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #0a2ff1;
+}
+
+.ParrafTitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+}
+
+.parraf {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #0a2ff1;
+    margin-top: 0px;
+}
+
+.imgfond {
+    background-image: url(./Recursos/M5-Desafio3-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-bottom: -5%
+}
+
+.probando {
+    width: 45%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.fotterbot {
+    height: 45px;
+    width: 100%;
+    background-color: #0a2ff1;
+}
+
+.imgwit {
+    width: 6%;
+    margin-left: 5%;
+    height: 50%;
+    margin-top: 1%;
+    
+}
