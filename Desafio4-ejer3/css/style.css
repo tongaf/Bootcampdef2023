@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 58px;
+    color: #0a2ff1;
+}
+
+.parraf {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #0a2ff1;
+}
+
+.img {
+    width:100%;
+    display: block;
+    background-size: contain;
+}
+  
+body {
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+footer {
+    width: 100%;
+}
+
+.main {
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+
+.main img {
+    width: 100%;
+    margin: auto;
+    display: block;
+    background-size: contain;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: white;
+    background-color: #0a2ff1;
+    margin-bottom: 10px;
+    height: 50px;
+    width: 300px;
+}
+
+.width100pr {
+    width: 100%;
+}
+
+.footer {
+    margin-top: 10px;
+    border-top: #15163d;
+}
